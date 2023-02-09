@@ -1,12 +1,14 @@
 ### Olá, eu sou a Gabriela Albornoz 👋
 
-<!--
-**GabiDuartte/gabiduartte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
 
+![gabiduartte GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiduartte&show_icons=true&theme=synthwave)
 
+### Tecnologias já utilizadas
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiduartte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 
